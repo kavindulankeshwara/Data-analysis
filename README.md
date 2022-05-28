@@ -1,6 +1,4 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
-<img src="https://raw.githubusercontent.com/DataDisca/django_api1/master/DataDisca-Logo.svg_d400.png" width="75" height="25" />
 
 # Analysis and Visualisation Basics 
 Data extraction, transformation and loading are crucial skills for any Data Scientist. 
